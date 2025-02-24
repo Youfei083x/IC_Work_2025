@@ -1,0 +1,4 @@
++incdir+/home/fuyufei/DDR_controller/sdram_ctrl/rtl
+
+// files
+/home/fuyufei/DDR_controller/sdram_ctrl/rtl/sys_async_fifo.v

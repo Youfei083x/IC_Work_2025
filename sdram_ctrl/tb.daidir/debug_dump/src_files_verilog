@@ -1,0 +1,4 @@
+/home/fuyufei/DDR_controller/sdram_ctrl/rtl/ddr_ctrl_arbit.v
+/home/fuyufei/DDR_controller/sdram_ctrl/rtl/ddr_params.v
+/home/fuyufei/DDR_controller/sdram_ctrl/tb/sim/arbit_interface.sv
+/home/fuyufei/DDR_controller/sdram_ctrl/tb/sim/arbit_tb.sv

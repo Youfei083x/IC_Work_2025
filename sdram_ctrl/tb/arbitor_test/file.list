@@ -1,0 +1,6 @@
++incdir+/home/fuyufei/DDR_controller/sdram_ctrl/rtl
+
+// files
+ddr_params.v
+ddr_ctrl_arbit.v
+

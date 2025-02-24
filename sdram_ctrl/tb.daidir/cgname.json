@@ -1,0 +1,32 @@
+{
+    "arbit_interface": [
+        "arbit_interface",
+        "ivjpv",
+        "module",
+        4
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "ddr_ctrl_arbit": [
+        "ddr_ctrl_arbit",
+        "aCjbw",
+        "module",
+        2
+    ],
+    "arbit_tb": [
+        "arbit_tb",
+        "MuqxD",
+        "module",
+        3
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        5
+    ]
+}
